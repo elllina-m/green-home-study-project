@@ -219,5 +219,6 @@ green-home-ecommerce-pm-case/
 * **Программное обеспечение:** ProjectLibre, Microsoft Excel (Advanced Modeling / Cash Flow), 1C:Предприятие, 1С-Битрикс.
 
 ---
-*Автор кейса: [Ваше Имя] — Project Manager*  
-*Контакты: [Email / Telegram / Профиль LinkedIn]*
+*Автор кейса: Элина Мусаева — Project Manager*  
+*Контакты: [elllina.m@yandex.ru / tg: @m_elllina / https://www.linkedin.com/in/elina-musaeva / https://hh.ru/resume/882f6d87ff1093a4b30039ed1f4e5a4d716974]*
+
