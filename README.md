@@ -192,5 +192,5 @@ green-home-study-project/
 * **Software:** ProjectLibre, Microsoft Excel / Advanced Financial Modeling, 1C:Enterprise, 1C-Bitrix CMS.
 
 ---
-*Created by Elina Musaeva — Project Manager*  
-*Contact: elllina.m@proton.me / https://www.linkedin.com/in/elina-musaeva / tg: @m_elllina
+Created by Elina Musaeva — Project Manager*  
+Contact: elllina.m@proton.me / https://www.linkedin.com/in/elina-musaeva / tg: @m_elllina
